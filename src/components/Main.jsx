@@ -17,7 +17,6 @@ const Main = () => {
               I'm Luka Jerković
             </h1>
             <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-600">
-              I'm a
               <TypeAnimation
                 sequence={[
                   'Developer',

@@ -12,8 +12,8 @@ const About = () => {
         className="mx-auto w-72 h object-center rounded-xl py-8"
       />
       <p className="flex flex-wrap gap-4 flex-row items-center py-8 justify-start text-sm md:text-lg">
-        Hi there! My name is Luka, and I am a Junior Web Developer. I have a
-        strong passion for creating and developing websites that are not only
+        Hi there! My name is Luka, and I am a Junior Web Developer. I am
+        passionate for creating and developing websites that are not only
         aesthetically pleasing but also user-friendly and functional. I have a
         strong understanding of the technologies used in web development and
         have honed my skills in HTML, CSS, and JavaScript. I am constantly
