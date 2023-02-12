@@ -35,12 +35,12 @@ const Main = () => {
               <FaLinkedin
                 className="cursor-pointer"
                 size={30}
-                src="www.linkedin.com/in/luka-jerković"
+                href="www.linkedin.com/in/luka-jerković"
               />
               <FaGithub
                 className="cursor-pointer"
                 size={30}
-                src="www.linkedin.com/in/luka-jerković"
+                href="www.linkedin.com/in/luka-jerković"
               />
             </div>
           </div>
