@@ -32,16 +32,12 @@ const Main = () => {
               />
             </h2>
             <div className="flex justify-center pt-6 max-w-[200px] w-full">
-              <FaLinkedin
-                className="cursor-pointer"
-                size={30}
-                href="www.linkedin.com/in/luka-jerković"
-              />
-              <FaGithub
-                className="cursor-pointer"
-                size={30}
-                href="www.linkedin.com/in/luka-jerković"
-              />
+              <a href="https://www.linkedin.com/in/luka-jerković">
+                <FaLinkedin className="cursor-pointer" size={30} src="" />
+              </a>
+              <a href="https://github.com/luka-jerković">
+                <FaGithub className="cursor-pointer" size={30} src="" />
+              </a>
             </div>
           </div>
         </div>
