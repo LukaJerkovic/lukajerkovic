@@ -8,7 +8,7 @@ const Work = () => {
       <h2 className="flex sm:text-3xl text-2xl pt-32 text-center text-gray-600">
         <TypeAnimation
           sequence={[
-            'No experience as a Web Developer yet.',
+            'Actively looking for the first opportunity as a Web Developer',
             2000,
             ' But with hard work and dedication that will change soon...',
             2000,
