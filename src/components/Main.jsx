@@ -35,7 +35,7 @@ const Main = () => {
               <a href="https://www.linkedin.com/in/luka-jerković">
                 <FaLinkedin className="cursor-pointer" size={30} src="" />
               </a>
-              <a href="https://github.com/LukaJerkovic;">
+              <a href="https://github.com/LukaJerkovic">
                 <FaGithub className="cursor-pointer" size={30} src="" />
               </a>
             </div>
