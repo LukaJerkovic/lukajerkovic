@@ -9,7 +9,7 @@ const About = () => {
       </h1>
       <img
         src={Profile}
-        className="mx-auto w-72 h object-center rounded-xl py-8"
+        className="mx-auto w-60  object-center py-8"
       />
       <p className="flex flex-wrap gap-4 flex-row items-center py-8 justify-start text-sm md:text-lg">
         Hi there! My name is Luka, and I am a Junior Web Developer. I am
